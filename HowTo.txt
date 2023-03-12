@@ -1,0 +1,12 @@
+#HowTo - Multihash V2
+Download wordlist from this link: https://www.mediafire.com/file/ii0txvnyb3qnffr/plist.txt/file
+Put the word list in the same directory as the EXE
+*It will not work if it is renamed or moved!!
+
+Don't want that word list or have your own?
+Rename your list to 'plist.txt' and put it in the same directory as 'Multihash V2.exe'.
+
+Want to talk about the program?
+Discord: L6DV#0813
+Discord Server: https://discord.gg/R9dCgMapX7
+Website: https://lukey6.dev/
